@@ -9,5 +9,5 @@ The repository contains the data used in "Exploration-of-Traffic-Accident-Based-
 ### GloVe
 The pre-trained models provided in the implementation of the GloVe model for learning word representations from the paper "GloVe: Global Vectors for Word Representation" can be utilized. ([project page](https://nlp.stanford.edu/projects/glove/))
 
-# Authors
+## Authors
 Siyoon Kim, MinJe Cho and Yonggeol Lee*
