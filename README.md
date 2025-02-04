@@ -13,13 +13,13 @@ The pre-trained models provided in the implementation of the GloVe model for lea
 Siyoon Kim, MinJe Cho and Yonggeol Lee*
 
 ## Cite this work
-@article{kim2024exploration,
-  title={Exploration of traffic accident-based pilot zones for autonomous vehicle safety validation},
-  author={Kim, Siyoon and Cho, Minje and Lee, Yonggeol},
-  journal={Electronics},
-  volume={13},
-  number={17},
-  pages={3390},
-  year={2024},
-  publisher={MDPI}
+@article{kim2024exploration, <br/>
+&#160;&#160;  title={Exploration of traffic accident-based pilot zones for autonomous vehicle safety validation}, <br/>
+&#160;&#160;  author={Kim, Siyoon and Cho, Minje and Lee, Yonggeol}, <br/>
+&#160;&#160;  journal={Electronics}, <br/>
+&#160;&#160;  volume={13}, <br/>
+&#160;&#160;  number={17}, <br/>
+&#160;&#160;  pages={3390}, <br/>
+&#160;&#160;  year={2024}, <br/>
+&#160;&#160;  publisher={MDPI} <br/>
 }
